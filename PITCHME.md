@@ -38,12 +38,12 @@ Very minimal < 20 key words
 
 # Complex example ()
 
----
+---?image=https://i.imgur.com/ih2oqJm.png
 
 # Cucumber - Why?
 
 @quote[Execute your Gherkin]
-![Imgur](https://i.imgur.com/ih2oqJm.png)
+
 
 
 +++
@@ -60,6 +60,7 @@ Very minimal < 20 key words
 +++
 
 # Features for A Tour of Heros
+
 [Pickled Tour of Heros](https://github.com/DesHorsley/angular-tour-of-heroes)
 
 +++
