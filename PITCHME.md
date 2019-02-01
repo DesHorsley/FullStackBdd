@@ -40,11 +40,13 @@ Very minimal < 20 key words
 
 ---?image=https://i.imgur.com/ih2oqJm.png&size=contain
 
+@snap[north]
 # @color[white](Cucumber - Why?)
+@snapend
 
 @snap[text-white]
 @quote[Execute your Gherkin]
-@endsnap
+@snapend
 
 
 +++
