@@ -38,7 +38,7 @@ Very minimal < 20 key words
 
 # Complex example ()
 
----?image=https://i.imgur.com/ih2oqJm.png
+---?image=https://i.imgur.com/ih2oqJm.png&size=contain
 
 # Cucumber - Why?
 
