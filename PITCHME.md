@@ -1,5 +1,11 @@
 # BDD Full Stack
-## A look at e2e tests in Angular and Mulesoft
+---
+
+## e2e tests, executable specs
+
+Disclaimer: Not experts, just interested.
+
+Proof of concept, not best practice.
 
 ---
 
@@ -7,36 +13,47 @@
 
 +++
 
-TDD evolution
+Behavior Driven Development
+* TDD evolution
+* Specification by Example
+* Common language for all stake holders
 
 Note:
-User Stories? 
-  -> Relate to code?
+User Stories?  <!-- Who use them, who keeps them uptodate, are they in sync with the code? -->
+  -> Relate to code? <!-- Do they enforce the code? -->
 Merging of Specs and Tests
 Stakeholder readable
 Living Documentation
 The missing link
 
-+++ 
++++?image=https://www.businessballs.com/theme/remui/pix/businessballs/treeswing/tree-swing-s-hogh.jpg&size=contain
 
----
+## Trying to solve the age old problem
+
++++
+
+## At its core
+
+Common language to describe the desired behavior of the system
+A way to execute the requirements against the code.
+
 
 # Gherkin and features
 
 Simple and ultra light language for writing executable specifications.
 
-Very minimal < 20 key words
++++?image=https://i.imgur.com/JfkZCIe.png&size=contain
 
----?gist=DesHorsley/9403a3550aa1cfd194ffa0f2906591b1&lang=gherkin&title=Simple Feature
++++?gist=DesHorsley/9403a3550aa1cfd194ffa0f2906591b1&lang=gherkin&title=Simple Feature
 
 @[1](Overview and grouping of related scenarios)
 @[6](Scenario/Example: Short description of the business case, provides context to the steps)
 @[7-9](Steps, precondition, actions and outcome.)
 @[11-14](Multiple scenarios can be used to fully explore the feature)
 
----
++++
 
-# Complex example ()
+## Complex example ()
 
 ---?image=https://i.imgur.com/ih2oqJm.png&size=contain
 
@@ -55,24 +72,26 @@ Very minimal < 20 key words
 
 ![Imgur](https://i.imgur.com/d70rp1a.png)
 
-
 ---
 
 # Angular and MuleSoft
 
+* Common front end framework
+* Java based back end server
+
 +++
 
-# Features for A Tour of Heros
+## Features for A Tour of Heros
 
 [Pickled Tour of Heros](https://github.com/DesHorsley/angular-tour-of-heroes)
 
 +++
 
-# Steps
+## Steps
 
 +++
 
-# Turn routing API calls
+## Intercept API calls
 
 ---
 
@@ -80,17 +99,27 @@ Very minimal < 20 key words
 
 +++
 
-# What is MuleSoft?
+## What is MuleSoft?
 
 <!--Picture of Max the mule or the mule logo? -->
 
 +++
 
-# Steps
+## Steps
 
 +++
 
-# Responding to API calls
+## Responding to API calls
 
 +++
 
+# Related Resources
+
+All of these sites came in useful while putting this presentation together:
+* [inviqa](https://inviqa.com/blog/bdd-guide) Bdd guide
+* [cucumber](https://cucumber.io) Cucumber home page + reference materials
+* [John Papa's Tour of Heros](https://github.com/johnpapa/angular-tour-of-heroes) basis for Angular demo
+
+# Presentation Tools
+* [gitpitch](https://gitpitch.com)
+* [wordclouds](https://www.wordclouds.com/)
