@@ -37,6 +37,7 @@ The missing link
 Common language to describe the desired behavior of the system
 A way to execute the requirements against the code.
 
+---
 
 # Gherkin and features
 
@@ -47,6 +48,7 @@ Simple and ultra light language for writing executable specifications.
 +++?gist=DesHorsley/9403a3550aa1cfd194ffa0f2906591b1&lang=gherkin&title=Simple Feature
 
 @[1](Overview and grouping of related scenarios)
+@[3-4] Description of the feature, free text, links to tickets and references
 @[6](Scenario/Example: Short description of the business case, provides context to the steps)
 @[7-9](Steps, precondition, actions and outcome.)
 @[11-14](Multiple scenarios can be used to fully explore the feature)
@@ -119,6 +121,8 @@ All of these sites came in useful while putting this presentation together:
 * [inviqa](https://inviqa.com/blog/bdd-guide) Bdd guide
 * [cucumber](https://cucumber.io) Cucumber home page + reference materials
 * [John Papa's Tour of Heros](https://github.com/johnpapa/angular-tour-of-heroes) basis for Angular demo
+
+---
 
 # Presentation Tools
 * [gitpitch](https://gitpitch.com)
