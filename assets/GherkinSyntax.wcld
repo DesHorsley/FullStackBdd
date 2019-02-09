@@ -1,0 +1,14 @@
+20	Given
+20	When
+20	Then
+15	And
+15	But
+11	Background
+10	Scenario	Outline
+10	Scenario	Template
+9	Feature
+8	Example
+7	Examples
+5	Rule
+--------------------CloudConfig v2.4.1--------------------
+{"seed":11839,"ZM_shape":{"img":"/pics/shapes/ellipse.gif","thumb":"/pics/shapes/ellipse.thumb.gif","weightFactor":-13},"ZM_autoWeight":true,"ZM_curShape":"ellipse","ZM_curTheme":"t19","ZM_userWeightAdjust":-48,"ZM_userGridSizeAdjust":0,"ZM_canvasWidth":1024,"ZM_canvasHeight":768,"ZM_googleFont":"Fira+Mono:normal:latin-ext","ZM_colorMode":"custom","ZM_gradientColors":[],"CO_shape":"circle","CO_backgroundColor":"#fff","CO_colorArray":["#54bfa5","#222","#d6125c","#38b3f6","#e9c028","#545006","#3da4de","#4c0e27"],"CO_drawMask":false,"CO_maskColor":"rgba(76,14,39,0.1)","CO_fontFamily":"Fira Mono","CO_wordDirection":"randomer","CO_inverted":false}

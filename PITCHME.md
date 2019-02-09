@@ -19,7 +19,7 @@ Behavior Driven Development
 * Common language for all stake holders
 
 Note:
-User Stories?  <!-- Who use them, who keeps them uptodate, are they in sync with the code? -->
+User Stories?  <!-- Who use them, who keeps them up to date, are they in sync with the code? -->
   -> Relate to code? <!-- Do they enforce the code? -->
 Merging of Specs and Tests
 Stakeholder readable
@@ -28,7 +28,7 @@ The missing link
 
 +++?image=https://www.businessballs.com/theme/remui/pix/businessballs/treeswing/tree-swing-s-hogh.jpg&size=contain
 
-## Trying to solve the age old problem
+@title[Trying to solve the age old problem]
 
 +++
 
@@ -43,7 +43,7 @@ A way to execute the requirements against the code.
 
 Simple and ultra light language for writing executable specifications.
 
-+++?image=https://i.imgur.com/JfkZCIe.png&size=contain
++++?image=https://i.imgur.com/9sfLcPG.png&size=contain
 
 +++?gist=DesHorsley/9403a3550aa1cfd194ffa0f2906591b1&lang=gherkin&title=Simple Feature
 
@@ -83,9 +83,9 @@ Simple and ultra light language for writing executable specifications.
 
 +++
 
-## Features for A Tour of Heros
+## Features for A Tour of Heroes
 
-[Pickled Tour of Heros](https://github.com/DesHorsley/angular-tour-of-heroes)
+[Pickled Tour of Heroes](https://github.com/DesHorsley/angular-tour-of-heroes)
 
 +++
 
@@ -120,7 +120,7 @@ Simple and ultra light language for writing executable specifications.
 All of these sites came in useful while putting this presentation together:
 * [inviqa](https://inviqa.com/blog/bdd-guide) Bdd guide
 * [cucumber](https://cucumber.io) Cucumber home page + reference materials
-* [John Papa's Tour of Heros](https://github.com/johnpapa/angular-tour-of-heroes) basis for Angular demo
+* [John Papa's Tour of Heroes](https://github.com/johnpapa/angular-tour-of-heroes) basis for Angular demo
 
 ---
 
