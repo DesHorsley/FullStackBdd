@@ -34,7 +34,7 @@ The missing link
 
 ## At its core
 
-Common language to describe the desired behavior of the system
+Common language to describe the desired behavior of the system.  
 A way to execute the requirements against the code.
 
 +++
@@ -69,6 +69,7 @@ Simple and ultra light language for writing executable specifications.
 
 @[2-6](Explain why, not just how)
 @[8-9](Business rules and exceptions)
+@[12-16](Scenario)
 @[18](Use of data tables )
 @[19](table headers match fields in scenario)
 @[20](Happy day)
