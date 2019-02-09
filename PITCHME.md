@@ -47,20 +47,20 @@ Simple and ultra light language for writing executable specifications.
 
 +++?gist=DesHorsley/9403a3550aa1cfd194ffa0f2906591b1&lang=gherkin&title=Simple Feature
 
-@[1](Overview and grouping of related scenarios)
-@[3-4] Description of the feature, free text, links to tickets and references
+@[1] (Overview and grouping of related scenarios)
+@[3-4](Description of the feature, free text, links to tickets and references)
 @[6](Scenario/Example: Short description of the business case, provides context to the steps)
 @[7-9](Steps, precondition, actions and outcome.)
 @[11-14](Multiple scenarios can be used to fully explore the feature)
 
 +++?gist=DesHorsley/a93d97b5586fa27dfca461577becae1c&lang=gherkin&title=Feature with examples
 
-@[2-6]Explain why, not just how
-@[8-9]Business rules and exceptions
-@[18]Use of data tables 
-@[20]Happy day
-@[21]Counter example
-@[22]Exceptions and edge cases
+@[2-6](Explain why, not just how)
+@[8-9](Business rules and exceptions)
+@[18](Use of data tables )
+@[20](Happy day)
+@[21](Counter example)
+@[22](Exceptions and edge cases)
 
 ---?image=https://i.imgur.com/ih2oqJm.png&size=contain
 
