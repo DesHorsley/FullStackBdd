@@ -53,9 +53,14 @@ Simple and ultra light language for writing executable specifications.
 @[7-9](Steps, precondition, actions and outcome.)
 @[11-14](Multiple scenarios can be used to fully explore the feature)
 
-+++
++++?gist=DesHorsley/a93d97b5586fa27dfca461577becae1c&lang=gherkin&title=Feature with examples
 
-## Complex example ()
+@[2-6]Explain why, not just how
+@[8-9]Business rules and exceptions
+@[18]Use of data tables 
+@[20]Happy day
+@[21]Counter example
+@[22]Exceptions and edge cases
 
 ---?image=https://i.imgur.com/ih2oqJm.png&size=contain
 
