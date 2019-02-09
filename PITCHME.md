@@ -58,6 +58,7 @@ Simple and ultra light language for writing executable specifications.
 @[2-6](Explain why, not just how)
 @[8-9](Business rules and exceptions)
 @[18](Use of data tables )
+@[19](table headers match fields in scenario)
 @[20](Happy day)
 @[21](Counter example)
 @[22](Exceptions and edge cases)
