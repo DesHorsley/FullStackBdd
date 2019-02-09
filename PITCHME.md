@@ -43,7 +43,7 @@ A way to execute the requirements against the code.
 
 Simple and ultra light language for writing executable specifications.
 
-+++?image=https://i.imgur.com/9sfLcPG.png&size=contain
++++?image=https://i.imgur.com/IZioED9.png&size=contain
 
 +++?gist=DesHorsley/9403a3550aa1cfd194ffa0f2906591b1&lang=gherkin&title=Simple Feature
 
