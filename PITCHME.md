@@ -37,6 +37,12 @@ The missing link
 Common language to describe the desired behavior of the system
 A way to execute the requirements against the code.
 
++++
+
+## From the Dan North
+
+>BDD is a second-generation, outside-in, pull-based, multiple-stakeholder, multiple-scale, high-automation, agile methodology. It describes a cycle of interactions with well-defined outputs, resulting in the delivery of working, tested software that matters.
+
 ---
 
 # Gherkin and features
