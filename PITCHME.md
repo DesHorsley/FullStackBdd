@@ -53,6 +53,12 @@ Simple and ultra light language for writing executable specifications.
 @[7-9](Steps, precondition, actions and outcome.)
 @[11-14](Multiple scenarios can be used to fully explore the feature)
 
++++
+
+* Manage feature file length
+* Improve reader engagement
+* Faster development and maintenance
+
 +++?gist=DesHorsley/a93d97b5586fa27dfca461577becae1c&lang=gherkin&title=Feature with examples
 
 @[2-6](Explain why, not just how)
@@ -73,7 +79,6 @@ Simple and ultra light language for writing executable specifications.
 @quote[Execute your Gherkin]
 @snapend
 
-
 +++
 
 ## Ubiquity 
@@ -93,13 +98,30 @@ Simple and ultra light language for writing executable specifications.
 
 [Pickled Tour of Heroes](https://github.com/DesHorsley/angular-tour-of-heroes)
 
+* Maintain a list of your favourite heroes
+* Top heroes
+* Delete
+
 +++
 
 ## Steps
 
+* Throw away canary test - `app.steps.ts`
+* Dashboard: `dashboard.steps.ts` - Single page, basic operation
+* manageHeroes: `manageHeros.steps.ts` - Multiple pages, search by text, clicks buttons
 +++
 
 ## Intercept API calls
+
+Use of [angular-in-memory-web-api](https://github.com/angular/in-memory-web-api)
+Not feature toggled in the sample code but can be
+
+```javascript
+@NgModule({
+  imports: [
+  environment.production ?
+    [] : HttpClientInMemoryWebApiModule.forRoot(InMemHeroService)
+```
 
 ---
 
